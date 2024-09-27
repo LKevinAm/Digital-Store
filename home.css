@@ -80,9 +80,18 @@ a {
     text-decoration: underline;
 }
 
+.luz {
+    font-weight: bold;
+}
+
+#pgini{color:#c92071;
+font-weight: bold;
+text-decoration: underline;}
+
 .DeBaixo {
     width: 30vw;
     display: flex;
     justify-content: space-around;
     margin-left: 35PX;
+    margin-top: 20px;
 }
